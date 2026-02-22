@@ -1,17 +1,4 @@
 # TokenRepo
-This is a test repo with an expired tokens on purpose, to be found in scan.
 
-ASIAY34FZKBOKMUTVV7A
+Notice in order for webhook scan to find a secret, file type shouldn't be `.md` because of default exclusion rules. 
 
-AKIAZFNICKYXQSJNMVM3
-
-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
-
-
-j5iPj2lwsKopOpkn4TouLJ8TE1Gqk0mPtf72F8TCo4bpWVEr1ANR8pWFhGRHtESt
-
-
-ghp_BTqLYZxZZt40aNxfv23C4UBiUiw1R12UC7vz
-
-
-ghp_BTqLYZxZZt40aNxfv35C4UBiUiw1R99UC7vz
